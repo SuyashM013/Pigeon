@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+    h1 {
+        @apply font-Heading text-blue-200
+    }
+
+
+
+}
+
+
+.learn {
+    @apply bg-red-500
+}
